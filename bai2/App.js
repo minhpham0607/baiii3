@@ -65,15 +65,15 @@ const styles = StyleSheet.create({
   shadowBox: {
     backgroundColor: "#fff",
     paddingVertical: 10,
-    paddingHorizontal: 0, // Remove horizontal padding to push the text to the edge
+    paddingHorizontal: 0, 
     marginBottom: 10,
   },
   title: {
     fontSize: 24,
     fontWeight: "bold",
     textAlign: "left",
-    paddingHorizontal: 0, // Ensure no padding inside the text
-    marginHorizontal: 0, // Ensure no margin around the text
+    paddingHorizontal: 0,
+    marginHorizontal: 0, 
   },
   subtitle: {
     fontSize: 18,

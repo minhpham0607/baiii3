@@ -5,4 +5,4 @@
 - **Mã SV**: BIT220104
 
 ## Ảnh Chụp Màn Hình
-![alt](Anh.jpg)
+![alt](Anh.jpg)# App2.1
